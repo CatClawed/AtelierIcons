@@ -31,3 +31,5 @@ icon_category_poison	A26_Yumia	category-poisons
 item_category_plant	A26_Yumia	material-5
 item_category_ore	A26_Yumia	category-ore
 item_category_nuts	A26_Yumia	category-fruit
+element-air	A25_Resleriana	resleri-wind
+element-bolt	A25_Resleriana	resleri-lightning
