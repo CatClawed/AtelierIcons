@@ -1,0 +1,115 @@
+filename	folder	source_name
+category-42	A26_Yumia	category-exploration-equip
+category-26	A26_Yumia	category-animal-mat
+category-23	A26_Yumia	category-gases
+category-33	A26_Yumia	category-bombs
+category-16	A26_Yumia	category-mushrooms
+category-14	A26_Yumia	material-15
+category-5	A26_Yumia	category-medicinal
+category-34	A26_Yumia	material-11
+category-36	A26_Yumia	category-magic-tools
+category-20	A26_Yumia	category-bugs
+category-31	A26_Yumia	material-3
+category-43	A26_Yumia	category-key-items
+category-18	A26_Yumia	category-beehives
+category-32	A26_Yumia	material-12
+category-7	A26_Yumia	category-elixirs
+category-19	A26_Yumia	category-marine
+category-4	A26_Yumia	category-flowers
+category-15	A26_Yumia	material-10
+category-13	A26_Yumia	material-7
+category-12	A26_Yumia	material-6
+category-22	A26_Yumia	material-1
+category-1	A26_Yumia	material-4
+category-3	A26_Yumia	category-uni
+category-21	A26_Yumia	category-threads
+category-9	A26_Yumia	material-2
+category-8	A26_Yumia	material-8
+category-11	A26_Yumia	material-16
+category-25	A26_Yumia	category-puni
+category-6	A26_Yumia	category-poisons
+category-2	A26_Yumia	material-5
+category-10	A26_Yumia	category-ore
+category-17	A26_Yumia	category-fruit
+element-air	A25_Resleriana	resleri-wind
+element-bolt	A25_Resleriana	resleri-lightning
+axe-color	A25-2_RW
+axe	A25-2_RW
+bug-net-color	A25-2_RW
+bug-net	A25-2_RW
+category-24	A25-2_RW
+category-27	A25-2_RW
+category-28	A25-2_RW
+category-29	A25-2_RW
+category-30	A25-2_RW
+category-35	A25-2_RW
+category-37	A25-2_RW
+category-38	A25-2_RW
+category-39	A25-2_RW
+category-40	A25-2_RW
+category-41	A25-2_RW
+chest	A25-2_RW
+container	A25-2_RW
+element-fire	A25-2_RW
+element-ice	A25-2_RW
+element-magic	A25-2_RW
+element-physical	A25-2_RW
+enemy-boss	A25-2_RW
+enemy-large	A25-2_RW
+enemy-small	A25-2_RW
+fairy-color	A25-2_RW
+fairy	A25-2_RW
+gather-color	A25-2_RW
+gather	A25-2_RW
+guide-consumable-color	A25-2_RW
+guide-consumable	A25-2_RW
+guide-dispatch-color	A25-2_RW
+guide-dispatch	A25-2_RW
+guide-effects	A25-2_RW
+guide-equip	A25-2_RW
+guide-important-color	A25-2_RW
+guide-important	A25-2_RW
+guide-ingredients	A25-2_RW
+guide-main-quest	A25-2_RW
+guide-quest-color	A25-2_RW
+guide-quest	A25-2_RW
+guide-request-color	A25-2_RW
+guide-request	A25-2_RW
+guide-search-color	A25-2_RW
+guide-search	A25-2_RW
+guide-synthesis-color	A25-2_RW
+guide-talents	A25-2_RW
+guide-traits-color	A25-2_RW
+guide-traits	A25-2_RW
+menu-equip	A25-2_RW
+pedestal-2	A25-2_RW
+pedestal	A25-2_RW
+shop-color	A25-2_RW
+shop	A25-2_RW
+sickle-color	A25-2_RW
+sickle	A25-2_RW
+spear-color	A25-2_RW
+spear	A25-2_RW
+town-farming	A25-2_RW
+town-management	A25-2_RW
+town-manufact	A25-2_RW
+town-merchant	A25-2_RW
+town-nature	A25-2_RW
+town-resident	A25-2_RW
+trait-battle-benefit	A25-2_RW
+trait-boost-items	A25-2_RW
+trait-chara-color	A25-2_RW
+trait-chara-damage-color	A25-2_RW
+trait-chara-damage	A25-2_RW
+trait-chara	A25-2_RW
+trait-combat-items	A25-2_RW
+trait-combined-color	A25-2_RW
+trait-combined	A25-2_RW
+trait-heal	A25-2_RW
+trait-hp	A25-2_RW
+trait-inhibitors	A25-2_RW
+trait-item	A25-2_RW
+trait-speed	A25-2_RW
+trait-synthesis	A25-2_RW
+trait-weapons	A25-2_RW
+true-history	A25-2_RW
