@@ -7,7 +7,7 @@ This function is full of vibes.
 """
 def generate_svg_spritesheet(file_list, output_file="sprite.svg"):
     NS = {'svg': 'http://www.w3.org/2000/svg'}
-    root = etree.Element(f"{{{NS['svg']}}}svg", nsmap=NS, style="display:none;")
+    root = etree.Element(f"{{{NS['svg']}}}svg", nsmap=NS,)
     defs = etree.SubElement(root, f"{{{NS['svg']}}}defs")
 
     print(f"Processing {len(file_list)} SVGs...")
