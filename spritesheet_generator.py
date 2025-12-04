@@ -25,8 +25,6 @@ def generate_svg_spritesheet(file_list, output_file="sprite.svg"):
             if view_box: symbol.set('viewBox', view_box)
             symbol.extend(svg_element); defs.append(symbol)
 
-            print(f"| Added: {symbol_id} (Source: {filepath}, ViewBox: {view_box})")
-
         except Exception as e:
             print(f"Error processing {filepath}: {e}")
 

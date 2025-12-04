@@ -1,0 +1,29 @@
+filename	folder	source_name
+attack	A25_Resleriana
+buff	A25_Resleriana
+combat	A25_Resleriana
+debuff	A25_Resleriana
+equipment	A25_Resleriana
+healing	A25_Resleriana
+item-frame	A25_Resleriana
+resleri-ice	A25_Resleriana
+resleri-impact	A25_Resleriana
+resleri-lightning	A25_Resleriana
+resleri-pierce	A25_Resleriana
+resleri-slash	A25_Resleriana
+resleri-wind	A25_Resleriana
+resleri-icon	A25_Resleriana
+color-l	A25_Resleriana/whim	a25-color-new-l2
+color-r	A25_Resleriana/whim	a25-color-r
+alchemy	A25_Resleriana/whim	alch
+cauldron	A25_Resleriana/whim
+char	A25_Resleriana/whim
+quest	A25_Resleriana/whim	expedition
+mats	A25_Resleriana/whim
+memoria	A25_Resleriana/whim
+recipes	A25_Resleriana/whim
+research	A25_Resleriana/whim
+fa-import	font-awesome	file-import-solid-full
+fa-plus	font-awesome	plus-solid-full
+fa-shield	font-awesome	shield-solid-full
+fa-circle	font-awesome	circle-solid-full
